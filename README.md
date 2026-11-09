@@ -5,3 +5,5 @@ Alloy reads it about once a day and shows "UPDATE x.y AVAILABLE" in its header w
 Nothing about the user is sent.
 
 Downloads: https://cymbalsamples.com
+
+`strata/latest.txt` does the same for the Strata delay plug-in (Strata 1.0 and later).
