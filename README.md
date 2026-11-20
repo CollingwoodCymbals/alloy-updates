@@ -7,3 +7,4 @@ Nothing about the user is sent.
 Downloads: https://cymbalsamples.com
 
 `strata/latest.txt` does the same for the Strata delay plug-in (Strata 1.0 and later).
+`groan/latest.txt` does the same for the Groan kick synth (Groan 1.0 and later).
