@@ -1,0 +1,4 @@
+# Tremor update file. Tremor reads this once a day (after cymbalsamples.com/tremor/latest.txt).
+# When a new Tremor is out, change the version line (and the url if the download page moves).
+version 1.0
+url https://cymbalsamples.com/tremor
